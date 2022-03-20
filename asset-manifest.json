@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Marketing-training-courses/static/css/main.769733d3.css",
+    "main.js": "/Marketing-training-courses/static/js/main.1e17fe2d.js",
+    "static/media/person.jpg": "/Marketing-training-courses/static/media/person.10a392b9e8994a2f3b02.jpg",
+    "static/media/cource_4.jpg": "/Marketing-training-courses/static/media/cource_4.fc01a6733f7fab498bb0.jpg",
+    "static/media/logo_ads.jpg": "/Marketing-training-courses/static/media/logo_ads.dce4fea9b60c368b2bc6.jpg",
+    "static/media/3.svg": "/Marketing-training-courses/static/media/3.a4a2ebeeb68b0646169502bf83b16cf4.svg",
+    "static/media/4.svg": "/Marketing-training-courses/static/media/4.05ed3a66ae6ccb520f516ab9d827500e.svg",
+    "static/media/1.svg": "/Marketing-training-courses/static/media/1.254b4e3655888a4a49a06ce391590acb.svg",
+    "static/media/footer-logo.png": "/Marketing-training-courses/static/media/footer-logo.71ebbeb539e1549ad496.png",
+    "static/media/nav-logo.png": "/Marketing-training-courses/static/media/nav-logo.71ebbeb539e1549ad496.png",
+    "static/media/ap-ico.png": "/Marketing-training-courses/static/media/ap-ico.5841c1cad63fffa83d39.png",
+    "static/media/app-ico.png": "/Marketing-training-courses/static/media/app-ico.c5133b6902b1367fd8ef.png",
+    "static/media/contact.svg": "/Marketing-training-courses/static/media/contact.40d2e143c895b4abeda84022e82e6013.svg",
+    "static/media/2.svg": "/Marketing-training-courses/static/media/2.a1132bd70d72b99edb4cc8c4dd00106a.svg",
+    "index.html": "/Marketing-training-courses/index.html",
+    "main.769733d3.css.map": "/Marketing-training-courses/static/css/main.769733d3.css.map",
+    "main.1e17fe2d.js.map": "/Marketing-training-courses/static/js/main.1e17fe2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.769733d3.css",
+    "static/js/main.1e17fe2d.js"
+  ]
+}
