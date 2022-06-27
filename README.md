@@ -11,7 +11,7 @@
 
 
 ## Demo
-Here is a working live demo :  https://karimaltbal.github.io/home
+Here is a working live demo :  https://karimaltbal.github.io/Training-Courses-App/
 
 ## Site
 
